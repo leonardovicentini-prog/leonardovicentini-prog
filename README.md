@@ -8,7 +8,7 @@
 - 💬 Pergunte-me sobre ...
 - 📫 Como entrar em contato comigo: (14) 99902-6786
 - 😄 Pronomes: he/him
-- ⚡ Curiosidade: Não possuo.
+- ⚡ Curiosidade: Não possuo
 
 
 ## Ferramentas e Tecnologias
